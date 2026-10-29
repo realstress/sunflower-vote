@@ -1,0 +1,8 @@
+name = "sunflower-vote"
+main = "worker/index.js"
+compatibility_date = "2026-10-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "sunflower-vote-db"
+database_id = "dcccc2fe-12e9-4ca1-9afd-3ea44aad9cfb"
